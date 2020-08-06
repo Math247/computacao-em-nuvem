@@ -31,3 +31,7 @@ Pode estar localizado fisicamente no Data Center** da empresa.
 -Nuvem Pública
 Elas pertencem a um provedor de serviço de nuvem terceirizado. O Azure é uma nuvem pública.
 Numa nuvem pública, o hardware, software e outras infraestruturas de suporte são de propriedade e gerenciadas pelo provedor de nuvem.
+
+-Nuvem Híbrida
+Elas combinas nuvem publicas e privadas permitindo que os dados e aplicações se movam por nuvens privadas e públicas. Mais Flexibilidade,
+Otimização e Segurança.
