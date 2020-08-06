@@ -13,3 +13,10 @@ Segurança
 Velocidade
 Produtividade
 Confiabilidade
+
+-Tipos de Computação em Nuvem
+
+Nuvem Publica
+Nuvem Privada
+Nuvem Híbrada
+
