@@ -16,6 +16,8 @@ computação em nuvens é o Dropbox, um serviço de sincronização de arquivos.
 usado para a sincronia nas nuvens. Quando você copia ou move um arquivo neste espaço, ele será duplicado no servidor do aplicativo.
 Outro exemplo desta tecnologia é o Google Docs, serviço em que você pode criar documentos e armazená-los on-line.
 
+https://azure.microsoft.com/pt-br/overview/what-is-cloud-computing/#benefits
+
 -Benefícios da Computação da Nuvem
 
 Custo 
