@@ -4,6 +4,18 @@ Fundamentos da Computaçãp em Nuvem:
 É o fornecimento de serviços de computação: desde servidores, armazenamentos de dados, banco de dados, redes, machine learning
 e tudo pela internet, pela nuvem.
 
+Pesquisa da internet:
+Computação em nuvem (do inglês cloud computing) é um conceito que faz referência a uma tecnologia que permite o acesso a programas, arquivos e serviços 
+por meio da internet, sem a necessidade de instalação de programas ou armazenamento de dados – daí vem a alusão a “nuvem”.
+Com isso, os serviços podem ser acessados de maneira remota, de qualquer lugar do mundo e a qualquer hora.
+A partir de qualquer computador e em qualquer lugar, podemos acessar informações, arquivos e programas num sistema único. Com a computação em nuvem, os 
+seus dados não estão salvos em um disco rígido do seu computador, mas sim disponíveis na web. O requisito mínimo deste conceito é um computador conectado 
+à internet.
+Dentre os principais fornecedores deste tipo de tecnologia estão a Microsoft, Salesforce, Slytap, HP, IBM, Google e Amazon. Um dos melhores exemplos de 
+computação em nuvens é o Dropbox, um serviço de sincronização de arquivos. Com este mecanismo, você só precisa reservar um espaço do disco rígido, que será 
+usado para a sincronia nas nuvens. Quando você copia ou move um arquivo neste espaço, ele será duplicado no servidor do aplicativo.
+Outro exemplo desta tecnologia é o Google Docs, serviço em que você pode criar documentos e armazená-los on-line.
+
 -Benefícios da Computação da Nuvem
 
 Custo 
