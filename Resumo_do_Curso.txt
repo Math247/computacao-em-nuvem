@@ -1,0 +1,5 @@
+Fundamentos da Computaçãp em Nuvem:
+
+- O que é computação em nuvem?
+É o fornecimento de serviços de computação: desde servidores, armazenamentos de dados, banco de dados, redes, machine learning
+e tudo pela internet, pela nuvem.
