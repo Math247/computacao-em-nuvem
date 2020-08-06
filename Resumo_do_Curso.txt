@@ -20,3 +20,10 @@ Nuvem Publica
 Nuvem Privada
 Nuvem Híbrada
 
+- Nuvem Privada
+**O Data Center é um ambiente projetado para abrigar servidores e outros componentes como sistemas de armazenamento de dados (storages) 
+e ativos de rede (switches, roteadores). 
+
+Computação em nuvem utilizada específicamente por uma única empresa ou uma organização.
+Pode estar localizado fisicamente no Data Center** da empresa.
+É aquela em que os serviços são mantidos em uma rede privada.
