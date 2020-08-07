@@ -95,3 +95,12 @@ Estrutura de Desenvolvimento
 Análise ou business intelligence
 Serviços adicionais
 
+-Quais as vantagens do PaaS?
+
+Mesmas vantagens IaaS +:
+Reduz o tempo de codificação
+Adiciona funcionalidade de desenvolvimento
+Desenvolvimento simplificado para diversas plataformas
+Suporte a equipes distribuídas geograficamente
+Gerenciamento com eficácia ao ciclo de vida a aplicação
+Uso de ferramentas sofisticadas
