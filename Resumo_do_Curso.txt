@@ -88,3 +88,10 @@ Serviços que fornecem um abiente sobre demanda para desenvolvimento, teste...
 Foi criado para facilitar os desenvolvedores para criar aplicativos sem preocupações.
 Ele sobrepõem o IaaS.
 Tem tudo o que o IaaS + Sistemas Operacionais, Ferramentas de desenvolvimento, gerenciamento de banco de dados, analise de negócios.
+
+-Cenário do PaaS
+
+Estrutura de Desenvolvimento
+Análise ou business intelligence
+Serviços adicionais
+
