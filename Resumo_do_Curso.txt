@@ -49,3 +49,11 @@ Numa nuvem pública, o hardware, software e outras infraestruturas de suporte s�
 -Nuvem Híbrida
 Elas combinas nuvem publicas e privadas permitindo que os dados e aplicações se movam por nuvens privadas e públicas. Mais Flexibilidade,
 Otimização e Segurança.
+
+Tipos de Serviço de Nuvem
+
+.IaaS - Infraestrutura como Serviço
+.PaaS - Plataforma como Serviço
+.Computação sem Servidor - Serverless
+.SaaS - Software como Serviço
+São chamados de Pilhas de computação em nuvem as vezes.
