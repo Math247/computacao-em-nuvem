@@ -144,3 +144,8 @@ Uso do software de cliente gratuito
 Pagar somente pelo que usar
 Mobilização da força de trabalho facilmente
 Acesso a dados de aplicativos de qualquer lugar
+
+Curso Microsoft Learn – Conceitos Básicos de Computação em Nuvem: https://bit.ly/computacao-nuvem-curso
+Exemplos de Computação em Nuvem: https://bit.ly/exemplos-computacao-nuvem
+Termos de Computação em Nuvem: https://bit.ly/termos-computacao-nuvem
+ 
