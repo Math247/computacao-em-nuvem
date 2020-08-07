@@ -104,3 +104,8 @@ Desenvolvimento simplificado para diversas plataformas
 Suporte a equipes distribuídas geograficamente
 Gerenciamento com eficácia ao ciclo de vida a aplicação
 Uso de ferramentas sofisticadas
+
+-Computação sem servidor (Serverless)
+Sobrepõem o PaaS
+Concentra na funcionalidade de aplicativos. O provedor de nuvem cuida da infraestrutura e servidores.
+São controladas por eventos, usando recursos quando necessitado.
