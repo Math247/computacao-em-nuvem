@@ -125,7 +125,13 @@ Ambientes de aplicativo sem servidor
 Gateway de API sem servidor
 Fluxos de trabalho sem servidor
 
-- O que é SaaS
+-O que é SaaS
 
 Método para distribuição de aplicação de internet sobre demanda, normalmente por assinatura
 Contem tudo o que o PaaS tem + Apps/aplicativos hospedados
+
+-Cenários do SaaS
+Serviços de Email
+Uso empresarial
+CRM = Gerenciamento de relacionamento com os clientes
+ERPs
