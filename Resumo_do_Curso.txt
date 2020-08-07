@@ -72,3 +72,13 @@ Armazenamento, backup e recuperação - evitam gastos com armazenamento
 Aplicativos Web - fornece toda a infraestrutura para dar suporte a aplicações web
 Computação de alto desempenho
 Análise de Big Data
+
+-Vantagens do IaaS
+Eliminação e Redução de Custos
+Aprimoração dos negócios e Recuperação de Desastre
+Inovação rápida
+Resposta rápida as mudanças
+Foco nos principais negócios
+Aumento de estabilidade, confiabilidade e suporte
+Mais segurança
+Fornecimento a novas aplicações para usuários com rapidez
