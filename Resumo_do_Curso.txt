@@ -109,3 +109,10 @@ Uso de ferramentas sofisticadas
 Sobrepõem o PaaS
 Concentra na funcionalidade de aplicativos. O provedor de nuvem cuida da infraestrutura e servidores.
 São controladas por eventos, usando recursos quando necessitado.
+
+-Benefícios da computação sem Servidor (Serverless)
+
+Sem gerenciamento de infraestrutura
+Escabilidade Dinamica
+Menor tempo de colocação no mercado
+Uso mais eficiente dos recursos
