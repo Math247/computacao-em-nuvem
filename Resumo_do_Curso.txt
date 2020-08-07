@@ -58,8 +58,17 @@ Tipos de Serviço de Nuvem
 .SaaS - Software como Serviço
 São chamados de Pilhas de computação em nuvem as vezes.
 
-- O que é IaaS?
+-O que é IaaS?
 
 Categoria mais básica de computação em nuvem.
 Você aluga ingraestruturas de TI: Servidores e Armazenamento de dados, Segurança/firewalls de rede, Contrução/planta física do DataCenter, tudo
 alocado na nuvem.
+
+-Cenário de negócios do IaaS
+
+Teste e desenvolvimento - Equipes podem instalar rapidamente ambientes de testes e desenvolvimento.
+Hospedagem de sites - pode ser mais barato que uma hospedagem web tradicional
+Armazenamento, backup e recuperação - evitam gastos com armazenamento
+Aplicativos Web - fornece toda a infraestrutura para dar suporte a aplicações web
+Computação de alto desempenho
+Análise de Big Data
