@@ -131,7 +131,16 @@ Método para distribuição de aplicação de internet sobre demanda, normalment
 Contem tudo o que o PaaS tem + Apps/aplicativos hospedados
 
 -Cenários do SaaS
+
 Serviços de Email
 Uso empresarial
 CRM = Gerenciamento de relacionamento com os clientes
 ERPs
+
+-Vantagens do SaaS
+
+Obtenção de acesso a aplicativos sofisticados
+Uso do software de cliente gratuito
+Pagar somente pelo que usar
+Mobilização da força de trabalho facilmente
+Acesso a dados de aplicativos de qualquer lugar
