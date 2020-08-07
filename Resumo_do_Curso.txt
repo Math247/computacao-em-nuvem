@@ -57,3 +57,9 @@ Tipos de Serviço de Nuvem
 .Computação sem Servidor - Serverless
 .SaaS - Software como Serviço
 São chamados de Pilhas de computação em nuvem as vezes.
+
+- O que é IaaS?
+
+Categoria mais básica de computação em nuvem.
+Você aluga ingraestruturas de TI: Servidores e Armazenamento de dados, Segurança/firewalls de rede, Contrução/planta física do DataCenter, tudo
+alocado na nuvem.
