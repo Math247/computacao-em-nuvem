@@ -148,4 +148,9 @@ Acesso a dados de aplicativos de qualquer lugar
 Curso Microsoft Learn – Conceitos Básicos de Computação em Nuvem: https://bit.ly/computacao-nuvem-curso
 Exemplos de Computação em Nuvem: https://bit.ly/exemplos-computacao-nuvem
 Termos de Computação em Nuvem: https://bit.ly/termos-computacao-nuvem
- 
+
+
+Fundamentos do Azure
+
+-O que é Azure
+Conjunto de serviços de nuvem para ajudar sua organização a enfrentar os desafios de negócios.
