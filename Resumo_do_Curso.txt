@@ -166,3 +166,12 @@ IoT
 Big Data
 Inteligencia Artificial
 DevOps
+
+-Tipos de Serviço de Computação
+Azure Functions
+Azure Kubernetes Service
+Azure Container Instance
+Azure Service Fabric
+Azure Virtual Machine Scales Set
+Azure Virtual Machine
+Azure Batch
