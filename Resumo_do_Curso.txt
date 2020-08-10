@@ -154,3 +154,15 @@ Fundamentos do Azure
 
 -O que é Azure
 Conjunto de serviços de nuvem para ajudar sua organização a enfrentar os desafios de negócios.
+
+-Principais categorias de serviços do Azure
+Computação
+Rede
+Armazenamento
+Movel
+Banco de Dados
+Web
+IoT
+Big Data
+Inteligencia Artificial
+DevOps
