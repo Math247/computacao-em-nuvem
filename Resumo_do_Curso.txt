@@ -175,3 +175,19 @@ Azure Service Fabric
 Azure Virtual Machine Scales Set
 Azure Virtual Machine
 Azure Batch
+
+-Serviços de Rede
+Azure Virtual Network
+Azure Load Balancer
+Azure Application Gateway
+Azure VPN Gateway
+Azure DNS
+Azure CDN
+Azure DDoS Protection
+Azure Traffic Manager
+Azure ExpressRoute
+Azure Network Watcher
+Azure Firewall
+Azure Virtual WAN
+
+
