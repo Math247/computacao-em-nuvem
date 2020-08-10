@@ -227,3 +227,9 @@ Azure Machine Learning Service
 Azure Machine Learning Studio
 Cognitive Services
 Bot Services
+
+-Serviços de DevOps
+Azure DevOps
+Azure DevTest Labs
+Application Insights
+SDK's
