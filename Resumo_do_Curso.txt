@@ -195,3 +195,7 @@ Azure Blob Storage
 Azure File Storage
 Azure Queue Storage
 Azure Table Storage
+
+-Serviços Móveis
+
+Mobile App
