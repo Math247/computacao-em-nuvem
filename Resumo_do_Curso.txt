@@ -215,3 +215,8 @@ Azure Notification Hub
 Azure API Management
 Azure Web Apps
 Azure Signal Service
+
+-Serviços de Big Data
+Azure Synapse Analytics
+Azure HDInsight
+Azure Databricks
