@@ -197,5 +197,14 @@ Azure Queue Storage
 Azure Table Storage
 
 -Serviços Móveis
-
 Mobile App
+
+-Serviços de Banco de Dados
+Azure Cosmos DB
+Azure SQL Database
+Azure MySQL Database
+SQL Server on VM's
+Azure Synapse Analytics
+Azure Database Migration Service
+Azure Cache for Redis
+Database for MariaDB
