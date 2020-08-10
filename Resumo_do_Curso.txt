@@ -190,4 +190,8 @@ Azure Network Watcher
 Azure Firewall
 Azure Virtual WAN
 
-
+-Serviços de Armazenamento
+Azure Blob Storage
+Azure File Storage
+Azure Queue Storage
+Azure Table Storage
