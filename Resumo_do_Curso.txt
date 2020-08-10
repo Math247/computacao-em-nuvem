@@ -220,3 +220,10 @@ Azure Signal Service
 Azure Synapse Analytics
 Azure HDInsight
 Azure Databricks
+
+-Serviços de Inteligencia Artificial
+Azure Cognitive Search
+Azure Machine Learning Service
+Azure Machine Learning Studio
+Cognitive Services
+Bot Services
