@@ -208,3 +208,10 @@ Azure Synapse Analytics
 Azure Database Migration Service
 Azure Cache for Redis
 Database for MariaDB
+
+-Serviços Web
+Azure App Service
+Azure Notification Hub
+Azure API Management
+Azure Web Apps
+Azure Signal Service
