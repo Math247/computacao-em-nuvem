@@ -233,3 +233,7 @@ Azure DevOps
 Azure DevTest Labs
 Application Insights
 SDK's
+
+Conta Azure
+-O que é a Conta Gratuita do Azure?
+Inclui acesso gratuito a produtos populares por 1 ano.
