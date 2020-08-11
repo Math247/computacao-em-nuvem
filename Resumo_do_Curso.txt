@@ -279,3 +279,8 @@ SQL Server 2017 Developer Edition
 Data Factory
 DevTest Labs
 Etc
+
+Potal Azure
+
+-Azure Marketplace
+Local onde voce cria novos recursos no Azure.
