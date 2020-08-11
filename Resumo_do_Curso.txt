@@ -237,3 +237,14 @@ SDK's
 Conta Azure
 -O que é a Conta Gratuita do Azure?
 Inclui acesso gratuito a produtos populares por 1 ano.
+
+-Produtos Gratuitos por 1 ano
+Maquinas Virtuais do Linux
+Maquinas Virtuais do Windows
+Managed Disks
+Armazenamento de Blob
+Armazenamento de Arquivos
+Banco de Dados SQL
+Largura de Banda (Transferencia de Dados)
+Pesquisa Visual Computacional
+Personalizador
