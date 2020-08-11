@@ -248,3 +248,17 @@ Banco de Dados SQL
 Largura de Banda (Transferencia de Dados)
 Pesquisa Visual Computacional
 Personalizador
+
+-Produtos que serão sempre gratuitos
+Azure Cosmos DB
+Serviço de Aplicativo
+Funções
+AKS (Serviço de Kubernetes do Azure)
+Azure DevOps
+Active Directory B2C
+Hubs de Notificação
+Rede Virtual
+Machine Learning Server
+SQL Server 2017 Developer Edition
+Data Factory DevTest Labs
+Etc
