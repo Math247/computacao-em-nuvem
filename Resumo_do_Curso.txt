@@ -284,3 +284,15 @@ Potal Azure
 
 -Azure Marketplace
 Local onde voce cria novos recursos no Azure.
+
+Azure Resource Manager
+
+-O que é?
+Fornece uma camada de gerenciamento que permite criar recursos.
+
+-Terminologias importantes
+Recurso - Item gerenciavel que está disponivel por meio do Azure
+Grupo de Recursos - Cria um grupo de recursos para usar dentro da aplicação, e pode ter inumeros recursos
+Provedor de Recursos - Serviço que fornece o recursos. Cada categoria tem seu provedor de recurso
+Modelo do Resource Manager - É usado para implantar os recursos de forma consistente
+Sintaxe Declarativa - Permite a declaração
