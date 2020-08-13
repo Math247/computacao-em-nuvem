@@ -303,3 +303,9 @@ Grupos de Gerenciamento
 Assinaturas
 Grupos de Recursos
 Recursos
+
+-O que são Grupos de Recursos?
+Cada recurso deve pertencer a um grupo de recurso.
+Eles existem para organizar e gerenciar seus recursos.
+Se voce excluir um grupo de recurso, todos os recursos nele serão excluidos.
+
