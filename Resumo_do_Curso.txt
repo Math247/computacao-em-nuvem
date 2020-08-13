@@ -296,3 +296,10 @@ Grupo de Recursos - Cria um grupo de recursos para usar dentro da aplicação, e
 Provedor de Recursos - Serviço que fornece o recursos. Cada categoria tem seu provedor de recurso
 Modelo do Resource Manager - É usado para implantar os recursos de forma consistente
 Sintaxe Declarativa - Permite a declaração
+
+-Escopo do Azure Resource Manager
+
+Grupos de Gerenciamento
+Assinaturas
+Grupos de Recursos
+Recursos
