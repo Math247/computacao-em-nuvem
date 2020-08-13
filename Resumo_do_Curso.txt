@@ -309,3 +309,5 @@ Cada recurso deve pertencer a um grupo de recurso.
 Eles existem para organizar e gerenciar seus recursos.
 Se voce excluir um grupo de recurso, todos os recursos nele serão excluidos.
 
+-O que é Assinatura?
+Ela é semelhante a um grupo de recursos, e ele agrupa um grupo de recursos. São os controles usados pelo ARM tambem.
