@@ -321,3 +321,10 @@ empresas de software criem e mantenham seus aplicativos web sem se preocupar com
 -Entendendo sobre Arquitetura Serverless
 Arquitetura Tradicional Monolítica
 Arquitetura de Microsserviços/N ou Multi-Tier
+
+-Vantagens em usar Arquitetura Serverless
+Construção de Aplicações mais Escaláveis
+Facilidade em realizar o C.I e o C.D
+Só paga o que usa (Pay as you Go)
+Uso de diferentes Linguagens de Programação
+
