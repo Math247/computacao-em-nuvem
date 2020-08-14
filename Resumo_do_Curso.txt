@@ -318,3 +318,6 @@ Introdução aos Conceitos de Serverless e Azure Functions
 Arquitetura Serverless, ou “computação sem servidores”, é uma arquitetura de computação orientada a eventos. Sua principal proposta é permitir que as 
 empresas de software criem e mantenham seus aplicativos web sem se preocupar com a infraestrutura em que esses aplicativos estão rodando.
 
+-Entendendo sobre Arquitetura Serverless
+Arquitetura Tradicional Monolítica
+Arquitetura de Microsserviços/N ou Multi-Tier
