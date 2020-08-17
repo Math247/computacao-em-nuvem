@@ -328,3 +328,33 @@ Facilidade em realizar o C.I e o C.D
 Só paga o que usa (Pay as you Go)
 Uso de diferentes Linguagens de Programação
 
+Azure Functions
+Serviço de arquitetura Serverless
+
+-Linguagens com suporte ao Azure Functions
+C#
+JavaScript
+F#
+Java
+TypeScript
+Phython
+PowerShell
+
+-O que podemos fazer com o Azure Functions
+Acelerar e simplificar o desenvolvimento de aplicações
+Processar Dados
+Trabalhar com IoT
+Integrar Sistemas 
+Criar APIs e microsserviços simples
+
+-Principais templates do Azure Funcions
+
+HTTPTrigger
+TimerTrigger
+CosmosDBTrigger
+BlobTrigger
+QueueTrigger
+EventGridTrigger
+EventHubTrigger
+ServiceBusQueueTrigger
+ServiceBusTopicTrigger
